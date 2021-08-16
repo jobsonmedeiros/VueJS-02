@@ -1,4 +1,4 @@
-# VueJS - Projeto 1
+# VueJS - Projeto 1 - Sistema de Pedidos 
 
 ## Objetivo Geral
 Construção de uma máquina de pedidos self-service para lanchonete.
